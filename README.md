@@ -70,7 +70,7 @@ The dataset contains public posts collected from Instagram, Twitter, and Faceboo
 
 The dataset used in this project was sourced from Kaggle:
 
-[Social Media Sentiments Analysis Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
+[Social Media Sentiments Analysis Dataset](ht)
 
 
 <a name="a-glimpse-of-the-visual-analysis"></a>
