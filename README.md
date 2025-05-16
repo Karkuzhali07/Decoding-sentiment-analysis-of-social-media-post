@@ -1,5 +1,4 @@
 #  (😊 🙃 ☹️)
-<img src="Visuals/Sentiment-On-Social-Media1.jpg" alt="Sentiment Img" width="800" height="350">
 
 ## Table of Contents
 
@@ -77,33 +76,12 @@ The dataset used in this project was sourced from Kaggle:
 ## 👀 A Glimpse of the Visual Analysis
 Below are a few selected plots that highlight key insights from the dataset.
 
-<table>
-  <tr>
-    <td><img src="Visuals/sen1.png" width="450" height="200"></td>
-    <td><img src="Visuals/sen2.png" width="500" height="350"></td> 
-    <td><img src="Visuals/sen12.png" width="450" height="200"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="Visuals/sen8.png" width="550" height="250"></td>
-    <td><img src="Visuals/sen9.png" width="550" height="250"></td> 
-    <td><img src="Visuals/sen10.png" width="550" height="250"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="Visuals/sen5.png" width="600" height="250"></td>
-    <td><img src="Visuals/sen11.png" width="600" height="250"></td> 
-    <td><img src="Visuals/sen15.png" width="600"height="250"></td>
-  </tr>
-</table
+
   
 
 
-<div style="width: 70%; margin: 50px auto; border: 3px solid #4CAF50; padding: 40px; border-radius: 20px; text-align: center; background-color: #f9f9f9;">
+<div>
   <p style="font-size: 18px; color: #777;">😊 Thank you for your attention to this project! If you have any questions or feedback, feel free to reach out.</p>
-  <img src="Visuals/-thank-you.jpg" width="300" alt="Thank You" style="border-radius: 12px;">
 </div>
 
 
